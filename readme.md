@@ -29,6 +29,7 @@ A list of amazing resources for adversarial examples in deep learning
 - [Generating Natural Adversarial Examples](https://arxiv.org/abs/1710.11342) Zhao, Zhengli, Dheeru Dua, and Sameer Singh. arXiv preprint arXiv:1710.11342 (2017).
 
 
+
 ## Defenses for Adversarial Examples
 ### Network Ditillation
 - [Distillation as a defense to adversarial perturbations against deep neural networks](http://ieeexplore.ieee.org/abstract/document/7546524/) Papernot, Nicolas, et al.Security and Privacy (SP), 2016 IEEE Symposium on. IEEE, 2016.
@@ -114,3 +115,15 @@ A list of amazing resources for adversarial examples in deep learning
 - [A boundary tilting perspective on the phenomenon of adversarial examples](https://arxiv.org/abs/1608.07690) Tanay, Thomas, and Lewis Griffin. arXiv preprint arXiv:1608.07690 (2016).
 - [Measuring neural net robustness with constraints](http://papers.nips.cc/paper/6339-measuring-neural-net-robustness-with-constraints) Bastani, Osbert, et al. Advances in Neural Information Processing Systems. 2016.
 - [cleverhans v2.0.0: an adversarial machine learning library](https://arxiv.org/abs/1610.00768) Papernot, Nicolas, et al. arXiv preprint arXiv:1610.00768 (2017).
+
+
+## Cite this work
+If you find this list useful for academic research, we would appreciate citations for our survey paper:
+~~~~ 
+@article{yuan2017adversarial,
+  title={Adversarial Examples: Attacks and Defenses for Deep Learning},
+  author={Xiaoyong Yuan, Pan He, Qile Zhu, Rajendra Rana Bhat, Xiaolin Li},
+  journal={arXiv preprint arXiv:1712.07107},
+  year={2017}
+}
+~~~~ 
