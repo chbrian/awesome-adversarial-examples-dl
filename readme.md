@@ -97,6 +97,7 @@ A list of amazing resources for adversarial examples in deep learning
 - [Understanding Neural Networks through Representation Erasure](https://arxiv.org/abs/1612.08220) Li, Jiwei, Will Monroe, and Dan Jurafsky. arXiv preprint arXiv:1612.08220 (2016).
 
 ### Malware Detection
+- [RHMD: Evasion-Resilient Hardware Malware Detectors](http://www.cs.ucr.edu/~kkhas001/pubs/micro17-rhmd.pdf), Khaled N. Khasawneh et al., The 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO 2017).
 - [Adversarial examples for malware detection](https://link.springer.com/chapter/10.1007/978-3-319-66399-9_4) Grosse, Kathrin, et al. European Symposium on Research in Computer Security. Springer, Cham, 2017.
 - [Generating Adversarial Malware Examples for Black-Box Attacks Based on GAN](https://arxiv.org/abs/1702.05983) Hu, Weiwei, and Ying Tan. arXiv preprint arXiv:1702.05983 (2017).
 - [Evading Machine Learning Malware Detection](https://www.blackhat.com/docs/us-17/thursday/us-17-Anderson-Bot-Vs-Bot-Evading-Machine-Learning-Malware-Detection-wp.pdf) Anderson, Hyrum S., et al. Black Hat. 2017.
