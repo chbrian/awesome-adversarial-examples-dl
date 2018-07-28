@@ -25,9 +25,10 @@ A list of amazing resources for adversarial examples in deep learning
 - [Towards evaluating the robustness of neural networks](https://arxiv.org/abs/1608.04644) Carlini, Nicholas, and David Wagner. Security and Privacy (S&P). 2017.
 - [Machine Learning as an Adversarial Service: Learning Black-Box Adversarial Examples](https://arxiv.org/abs/1708.05207) Hayes, Jamie, and George Danezis. arXiv preprint arXiv:1708.05207 (2017).
 - [Zoo: Zeroth order optimization based black-box attacks to deep neural networks without training substitute models](https://arxiv.org/abs/1708.03999) Chen, Pin-Yu, et al. 10th ACM Workshop on Artificial Intelligence and Security (AISEC) with the 24th ACM Conference on Computer and Communications Security (CCS). 2017.
-- [Ground-Truth Adversarial Examples](https://arxiv.org/abs/1709.10207) Carlini, Nicholas, et al. arXiv preprint arXiv:1709.10207 (2017).
-- [Generating Natural Adversarial Examples](https://arxiv.org/abs/1710.11342) Zhao, Zhengli, Dheeru Dua, and Sameer Singh. arXiv preprint arXiv:1710.11342 (2017).
-
+- [Ground-Truth Adversarial Examples](https://arxiv.org/abs/1709.10207) Carlini, Nicholas, et al. arXiv preprint arXiv:1709.10207. 2017.
+- [Generating Natural Adversarial Examples](https://arxiv.org/abs/1710.11342) Zhao, Zhengli, Dheeru Dua, and Sameer Singh. arXiv preprint arXiv:1710.11342. 2017.
+- [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](https://arxiv.org/abs/1802.00420) Anish Athalye, Nicholas Carlini, David Wagner. arXiv preprint arXiv:1802.00420. 2018.
+- [Adversarial Attacks and Defences Competition](https://arxiv.org/abs/1804.00097) Alexey Kurakin, Ian Goodfellow, Samy Bengio, Yinpeng Dong, Fangzhou Liao, Ming Liang, Tianyu Pang, Jun Zhu, Xiaolin Hu, Cihang Xie, Jianyu Wang, Zhishuai Zhang, Zhou Ren, Alan Yuille, Sangxia Huang, Yao Zhao, Yuzhe Zhao, Zhonglin Han, Junjiajia Long, Yerkebulan Berdibekov, Takuya Akiba, Seiya Tokui, Motoki Abe. arXiv preprint arXiv:1802.00420. 2018.
 
 
 ## Defenses for Adversarial Examples
@@ -39,6 +40,7 @@ A list of amazing resources for adversarial examples in deep learning
 - [Adversarial machine learning at scale](https://arxiv.org/abs/1611.01236) Kurakin, Alexey, Ian Goodfellow, and Samy Bengio. ICLR. 2017.
 - [Ensemble Adversarial Training: Attacks and Defenses](https://arxiv.org/abs/1705.07204) Tramèr, Florian, et al. arXiv preprint arXiv:1705.07204 (2017).
 - [Adversarial training for relation extraction](http://www.aclweb.org/anthology/D17-1187) Wu, Yi, David Bamman, and Stuart Russell. Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing. 2017.
+- [Adversarial Logit Pairing](https://arxiv.org/abs/1803.06373) Harini Kannan, Alexey Kurakin, Ian Goodfellow. arXiv preprint arXiv:1803.06373 (2018).
 
 ### Adversarial Detecting
 - [Detecting Adversarial Samples from Artifacts](https://arxiv.org/abs/1703.00410) Feinman, Reuben, et al. arXiv preprint arXiv:1703.00410 (2017).
@@ -81,7 +83,6 @@ A list of amazing resources for adversarial examples in deep learning
 - [Adversarial examples for generative models](https://arxiv.org/abs/1702.06832) Kos, Jernej, Ian Fischer, and Dawn Song. arXiv preprint arXiv:1702.06832 (2017).
 - [Adversarial images for variational autoencoders](https://arxiv.org/abs/1612.00155) Tabacof, Pedro, Julia Tavares, and Eduardo Valle. Workshop on Adversarial Training, NIPS. 2016
 
-
 ### Semantic Segmentation
 - [Accessorize to a crime: Real and stealthy attacks on state-of-the-art face recognition](https://dl.acm.org/citation.cfm?id=2978392) Sharif, Mahmood, et al. Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications Security. ACM, 2016.
 - [Adversarial Examples for Semantic Segmentation and Object Detection](https://arxiv.org/abs/1703.08603) Xie, Cihang, et al. arXiv preprint arXiv:1703.08603 (2017).
@@ -91,6 +92,10 @@ A list of amazing resources for adversarial examples in deep learning
 
 ### Object Detection
 - [Adversarial Examples for Semantic Segmentation and Object Detection](https://arxiv.org/abs/1703.08603) Xie, Cihang, et al. arXiv preprint arXiv:1703.08603 (2017).
+- [Physical Adversarial Examples for Object Detectors](https://arxiv.org/abs/1807.07769) Kevin Eykholt, Ivan Evtimov, Earlence Fernandes, Bo Li, Amir Rahmati, Florian Tramer, Atul Prakash, Tadayoshi Kohno, Dawn Song. arXiv preprint arXiv:1807.07769 (2018).
+
+### Scene Text Recognition
+- [Adaptive Adversarial Attack on Scene Text Recognition](https://arxiv.org/abs/1807.03326) Xiaoyong Yuan, Pan He, Xiaolin Andy Li. arXiv preprint arXiv:1807.03326 (2018).
 
 ### Reading Comprehension
 - [Adversarial examples for evaluating reading comprehension systems](https://arxiv.org/abs/1707.07328) Jia, Robin, and Percy Liang. EMNLP. 2017.
@@ -103,6 +108,11 @@ A list of amazing resources for adversarial examples in deep learning
 - [DeepDGA: Adversarially-Tuned Domain Generation and Detection](https://dl.acm.org/citation.cfm?id=2996767) Anderson, Hyrum S., Jonathan Woodbridge, and Bobby Filar. Proceedings of the 2016 ACM Workshop on Artificial Intelligence and Security. ACM, 2016.
 - [Automatically evading classifiers](http://www.cs.virginia.edu/yanjun/paperA14/2016-evade_classifier.pdf) Xu, Weilin, Yanjun Qi, and David Evans. Proceedings of the 2016 Network and Distributed Systems Symposium. 2016.
 
+### Speech Recognition
+- [Targeted Adversarial Examples for Black Box Audio Systems](https://arxiv.org/abs/1805.07820) Rohan Taori, Amog Kamsetty, Brenton Chu, Nikita Vemuri. arXiv preprint arXiv:1805.07820 (2018).
+- [CommanderSong: A Systematic Approach for Practical Adversarial Voice Recognition](https://arxiv.org/abs/1801.08535) Xuejing Yuan, Yuxuan Chen, Yue Zhao, Yunhui Long, Xiaokang Liu, Kai Chen, Shengzhi Zhang, Heqing Huang, Xiaofeng Wang, Carl A. Gunter. USENIX Security. 2018.
+- [Audio Adversarial Examples: Targeted Attacks on Speech-to-Text](https://arxiv.org/abs/1801.01944) Nicholas Carlini, David Wagner. Deep Learning and Security Workshop, 2018.
+
 
 ## Transferability of Adversarial Examples
 - [Transferability in machine learning: from phenomena to black-box attacks using adversarial samples](https://arxiv.org/abs/1605.07277) Papernot, Nicolas, Patrick McDaniel, and Ian Goodfellow. arXiv preprint arXiv:1605.07277 (2016).
@@ -114,16 +124,26 @@ A list of amazing resources for adversarial examples in deep learning
 - [Exploring the space of adversarial images](http://ieeexplore.ieee.org/abstract/document/7727230/) Tabacof, Pedro, and Eduardo Valle. Neural Networks (IJCNN), 2016 International Joint Conference on. IEEE, 2016.
 - [A boundary tilting perspective on the phenomenon of adversarial examples](https://arxiv.org/abs/1608.07690) Tanay, Thomas, and Lewis Griffin. arXiv preprint arXiv:1608.07690 (2016).
 - [Measuring neural net robustness with constraints](http://papers.nips.cc/paper/6339-measuring-neural-net-robustness-with-constraints) Bastani, Osbert, et al. Advances in Neural Information Processing Systems. 2016.
+- [Towards Interpretable Deep Neural Networks by Leveraging Adversarial Examples](https://arxiv.org/abs/1708.05493) Yinpeng Dong, Hang Su, Jun Zhu, Fan Bao. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017.
+- [Adversarially Robust Generalization Requires More Data](https://arxiv.org/abs/1804.11285) Ludwig Schmidt, Shibani Santurkar, Dimitris Tsipras, Kunal Talwar, Aleksander Mądry. arXiv preprint arXiv:1804.11285. 2018.
+- [A Boundary Tilting Persepective on the Phenomenon of Adversarial Examples](https://arxiv.org/abs/1608.07690) Thomas Tanay, Lewis Griffin. arXiv preprint arXiv:1608.07690. 2018.
+- [Adversarial vulnerability for any classifier](https://arxiv.org/abs/1802.08686) Alhussein Fawzi, Hamza Fawzi, Omar Fawzi. arXiv preprint arXiv:1802.08686. 2018.
+- [Adversarial Spheres](https://arxiv.org/abs/1801.02774) Justin Gilmer, Luke Metz, Fartash Faghri, Samuel S. Schoenholz, Maithra Raghu, Martin Wattenberg, Ian Goodfellow. ICLR. 2018.
+
+## Tools
 - [cleverhans v2.0.0: an adversarial machine learning library](https://arxiv.org/abs/1610.00768) Papernot, Nicolas, et al. arXiv preprint arXiv:1610.00768 (2017).
+- [Foolbox: A Python toolbox to benchmark the robustness of machine learning models](https://arxiv.org/abs/1707.04131) Jonas Rauber, Wieland Brendel, Matthias Bethge. arXiv preprint arXiv:1707.04131 (2017). [Documentation](http://foolbox.readthedocs.io) [Code](https://github.com/bethgelab/foolbox)
 
 
 ## Cite this work
-If you find this list useful for academic research, we would appreciate citations for our survey paper:
+If you find this list useful for academic research, we would appreciate citations:
 ~~~~ 
 @article{yuan2017adversarial,
   title={Adversarial Examples: Attacks and Defenses for Deep Learning},
-  author={Xiaoyong Yuan, Pan He, Qile Zhu, Rajendra Rana Bhat, Xiaolin Li},
+  author={Xiaoyong Yuan, Pan He, Qile Zhu, Xiaolin Li},
   journal={arXiv preprint arXiv:1712.07107},
   year={2017}
 }
 ~~~~ 
+
+We will update recent studies in the list
