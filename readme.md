@@ -131,6 +131,7 @@ A list of amazing resources for adversarial examples in deep learning
 - [Adversarial Spheres](https://arxiv.org/abs/1801.02774) Justin Gilmer, Luke Metz, Fartash Faghri, Samuel S. Schoenholz, Maithra Raghu, Martin Wattenberg, Ian Goodfellow. ICLR. 2018.
 
 ## Tools
+- [adversarial.js](https://github.com/kennysong/adversarial.js) – craft adversarial examples in your browser. [Interactive Demo](https://kennysong.github.io/adversarial.js/).
 - [cleverhans v2.0.0: an adversarial machine learning library](https://arxiv.org/abs/1610.00768) Papernot, Nicolas, et al. arXiv preprint arXiv:1610.00768 (2017).
 - [Foolbox: A Python toolbox to benchmark the robustness of machine learning models](https://arxiv.org/abs/1707.04131) Jonas Rauber, Wieland Brendel, Matthias Bethge. arXiv preprint arXiv:1707.04131 (2017). [Documentation](http://foolbox.readthedocs.io) [Code](https://github.com/bethgelab/foolbox)
 - [advertorch v0.1: An Adversarial Robustness Toolbox based on PyTorch](https://arxiv.org/abs/1902.07623) Gavin Weiguang Ding, Luyu Wang, Xiaomeng Jin arXiv:1902.07623 (2019) [github repo](https://github.com/BorealisAI/advertorch)
