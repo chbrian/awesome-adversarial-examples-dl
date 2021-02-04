@@ -90,6 +90,11 @@ A list of amazing resources for adversarial examples in deep learning
 - [Universal Adversarial Perturbations Against Semantic Image Segmentation](http://openaccess.thecvf.com/content_iccv_2017/html/Metzen_Universal_Adversarial_Perturbations_ICCV_2017_paper.html) Hendrik Metzen, Jan, et al. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017.
 - [Semantic Image Synthesis via Adversarial Learning](https://arxiv.org/abs/1707.06873) Dong, Hao, et al. ICCV(2017).
 
+### Delineation
+- [Matching Adversarial Networks](http://openaccess.thecvf.com/content_cvpr_2018/html/Mattyus_Matching_Adversarial_Networks_CVPR_2018_paper.html) Mattyus, Gellert, et al. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018.
+- [TopoAL: An Adversarial Learning Approach for Topology-Aware Road Segmentation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720222.pdf) Vasu, Subeesh, et al. Eurpean Conference on Computer Vision (2020).
+- [TopoGAN: A Topology-Aware Generative Adversarial Network](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480120.pdf) Wang, Fan, et al. Eurpean Conference on Computer Vision (2020).
+
 ### Object Detection
 - [Adversarial Examples for Semantic Segmentation and Object Detection](https://arxiv.org/abs/1703.08603) Xie, Cihang, et al. arXiv preprint arXiv:1703.08603 (2017).
 - [Physical Adversarial Examples for Object Detectors](https://arxiv.org/abs/1807.07769) Kevin Eykholt, Ivan Evtimov, Earlence Fernandes, Bo Li, Amir Rahmati, Florian Tramer, Atul Prakash, Tadayoshi Kohno, Dawn Song. arXiv preprint arXiv:1807.07769 (2018).
